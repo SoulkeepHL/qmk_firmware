@@ -11,8 +11,9 @@
     },
     "encoder": {
         "rotary": [
-            {"pin_a": "GP12", "pin_b": "GP13", "resolution": 2}
-        ]
+            {"pin_a": "GP12", "pin_b": "GP13"}
+        ],
+        "resolution": 1
     },
     "matrix_pins": {
         "direct": [
