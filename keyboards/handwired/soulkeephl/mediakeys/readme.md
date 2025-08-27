@@ -1,6 +1,6 @@
 # mediakeys
 
-![mediakeys](https://imgur.com/jbH9Hul)
+![mediakeys](https://i.imgur.com/jbH9Hul.jpeg)
 
 QMK firmware for a directpin RP2040 3 button + rotary encoder media control keypad
 
