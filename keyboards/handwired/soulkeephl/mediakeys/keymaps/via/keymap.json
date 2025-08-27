@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "notes": "",
+  "documentation": "",
+  "keyboard": "soulkeephl/mediakeys",
+  "keymap": "via",
+  "layout": "LAYOUT",
+  "layers": [
+    [
+      "KC_MNXT",
+      "KC_MPLY",
+      "KC_MPRV",
+      "KC_MUTE"
+    ]
+  ],
+  "author": "soulkeephl"
+}
