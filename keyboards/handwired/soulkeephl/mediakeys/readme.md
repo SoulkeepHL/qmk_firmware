@@ -18,7 +18,7 @@ See the [build environment setup](getting_started_build_tools) and the [make ins
 
 ## Bootloader
 
-Enter the bootloader in 3 ways:
+Enter the bootloader in 2 ways:
 
 * **Bootmagic reset**: Hold down the button closest to the micro-USB port while plugging it in to USB
 * **Physical reset button**: Hold the BOOTSEL button on the Pi Pico while connecting it to USB
