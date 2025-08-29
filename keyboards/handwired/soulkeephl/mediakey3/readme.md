@@ -1,6 +1,6 @@
-# mediakeys
+# mediakey3
 
-![mediakeys](https://i.imgur.com/jbH9Hul.jpeg)
+![mediakey3](https://i.imgur.com/jbH9Hul.jpeg)
 
 VIA enabled QMK firmware for a directpin RP2040 3 button + rotary encoder media control keypad
 
@@ -8,11 +8,11 @@ VIA enabled QMK firmware for a directpin RP2040 3 button + rotary encoder media 
 
 Compile example for this keyboard (after setting up your build environment):
 
-    qmk compile -kb handwired/soulkeephl/mediakeys -km via
+    qmk compile -kb handwired/soulkeephl/mediakey3 -km via
 
 Flashing example for this keyboard:
 
-    qmk flash -kb handwired/soulkeephl/mediakeys -km via
+    qmk flash -kb handwired/soulkeephl/mediakey3 -km via
 
 See the [build environment setup](getting_started_build_tools) and the [make instructions](getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](newbs).
 
