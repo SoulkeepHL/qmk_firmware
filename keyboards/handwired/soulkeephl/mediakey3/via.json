@@ -1,0 +1,16 @@
+{
+  "name": "RP2040 MediaKeys",
+  "vendorId": "0x0721",
+  "productId": "0x4D4B",
+  "matrix": {"rows": 4, "cols": 1},
+  "layouts": {
+    "keymap": [
+      [
+        "0,0",
+        "1,0",
+        "2,0",
+        "3,0"
+      ]
+    ]
+  }
+}
