@@ -3,13 +3,15 @@
   "notes": "",
   "documentation": "",
   "keyboard": "soulkeephl/mediakeys",
-  "keymap": "via",
+  "keymap": "default",
   "layout": "LAYOUT",
   "layers": [
     [
-      "KC_MNXT",
-      "KC_MPLY",
       "KC_MPRV",
+      "KC_MRWD",
+      "KC_MPLY",
+      "KC_MFFD",
+      "KC_MNXT",
       "KC_MUTE"
     ]
   ],
