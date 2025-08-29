@@ -1,6 +1,6 @@
 # mediakey5
 
-![mediakey5](https://i.imgur.com/jbH9Hul.jpeg)
+![mediakey5](https://i.imgur.com/R5UDe5s.jpeg)
 
 VIA enabled QMK firmware for a directpin RP2040 5 button + rotary encoder media control keypad
 
