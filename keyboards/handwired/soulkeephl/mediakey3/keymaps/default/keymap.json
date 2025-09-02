@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": "1.0.1",
   "notes": "",
   "documentation": "",
-  "keyboard": "soulkeephl/mediakeys",
+  "keyboard": "handwired/soulkeephl/mediakey3",
   "keymap": "default",
   "layout": "LAYOUT",
   "layers": [
