@@ -2,16 +2,16 @@
   "version": "1.0.1",
   "notes": "",
   "documentation": "",
-  "keyboard": "soulkeephl/mediakeys",
+  "keyboard": "handwired/soulkeephl/mediakey5",
   "keymap": "via",
   "layout": "LAYOUT",
   "layers": [
     [
-      "KC_MPRV",
-      "KC_MRWD",
-      "KC_MPLY",
-      "KC_MFFD",
       "KC_MNXT",
+      "KC_MFFD",
+      "KC_MPLY",
+      "KC_MRWD",
+      "KC_MPRV",
       "KC_MUTE"
     ]
   ],
