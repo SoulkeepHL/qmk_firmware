@@ -1,5 +1,5 @@
 {
-  "name": "RP2040 MediaKeys",
+  "name": "RP2040 MediaKey3",
   "vendorId": "0x0721",
   "productId": "0x4D4B",
   "matrix": {"rows": 4, "cols": 1},
