@@ -1,6 +1,6 @@
 {
     "manufacturer": "Raspberry Pi",
-    "keyboard_name": "RP2040 MediaKeys",
+    "keyboard_name": "RP2040 MediaKey5",
     "maintainer": "soulkeephl",
     "bootloader": "rp2040",
     "features": {
