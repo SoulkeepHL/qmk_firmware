@@ -2,7 +2,7 @@
   "name": "22 Key Rottay Numpad",
   "vendorId": "0x0721",
   "productId": "0x6060",
-  "matrix": {"rows": 6, "cols": 1},
+  "matrix": {"rows": 7, "cols": 5},
   "layouts": {
     "keymap": [
       [
